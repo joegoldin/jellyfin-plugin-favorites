@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "fbd0367a-0af9-4fbd-831c-3ebcb82b9918",
+    "name": "Favorites Playlist",
+    "description": "Bidirectional sync between each user's movie hearts and a private Favorites playlist. Imports existing favorites on first creation.",
+    "overview": "Sync movie hearts with a private Favorites playlist for Infuse.",
+    "owner": "joegoldin",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial release: existing movie favorite import, two-way sync, per-user private playlists and restart-safe reconciliation.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/joegoldin/jellyfin-plugin-favorites/releases/download/v1.0.0.0/jellyfin-plugin-favorites_1.0.0.0.zip",
+        "checksum": "1e6e5d77fc2722961bc095dfd594d4ea",
+        "timestamp": "2026-11-15T03:40:00Z"
+      }
+    ]
+  }
+]
